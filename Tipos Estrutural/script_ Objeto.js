@@ -9,7 +9,7 @@ Sintaxe:
 { propriedade: "valor" }
 
 Ex:
-console.lo({
+console.log({
     name: Gustavo, idade:31, 
     andar: function() {
         console.log('andar')
